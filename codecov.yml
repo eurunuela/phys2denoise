@@ -4,7 +4,7 @@ codecov:
   require_ci_to_pass: yes
   bot: "codecov-io"
   ci:
-    - "travis.org"
+    - "circleci.com"
   max_report_age: 48
   disable_default_path_fixes: no
 
